@@ -1,1 +1,4 @@
-So this is the first post of the page hi!!!
+---
+title: "First Blog Page"
+date: 2020-06-29
+---
